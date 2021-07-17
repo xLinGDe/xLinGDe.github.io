@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlingde.github.io/</id>
     <title>小翎的窝</title>
-    <updated>2021-07-17T21:45:54.622Z</updated>
+    <updated>2021-07-17T21:47:54.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xlingde.github.io/"/>
     <link rel="self" href="https://xlingde.github.io/atom.xml"/>
-    <subtitle>-LinG  Blog-</subtitle>
+    <subtitle>傻子的温习小家</subtitle>
     <logo>https://xlingde.github.io/images/avatar.png</logo>
     <icon>https://xlingde.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小翎的窝</rights>
