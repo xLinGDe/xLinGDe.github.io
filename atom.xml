@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlingde.github.io/</id>
     <title>翎的小窝</title>
-    <updated>2021-07-21T10:02:21.470Z</updated>
+    <updated>2021-07-21T15:32:19.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xlingde.github.io/"/>
     <link rel="self" href="https://xlingde.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://xlingde.github.io/images/avatar.png</logo>
     <icon>https://xlingde.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翎的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[新冠疫苗预约流程]]></title>
+        <id>https://xlingde.github.io/post/xin-guan-yi-miao-yu-yue-liu-cheng/</id>
+        <link href="https://xlingde.github.io/post/xin-guan-yi-miao-yu-yue-liu-cheng/">
+        </link>
+        <updated>2021-07-21T15:06:48.000Z</updated>
+        <content type="html"><![CDATA[<p>直入主题<br>
+////////////////////////////////////////////////////////////////<br>
+微信搜索疫苗<img src="https://xlingde.github.io//post-images/1626880101819.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+或者扫描下图二维码<img src="https://xlingde.github.io//post-images/1626880142818.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+进入界面选择在线预约<img src="https://xlingde.github.io//post-images/1626880969229.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+到此界面观看告示，确认完成，选择登记<img src="https://xlingde.github.io//post-images/1626881048707.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+登记详细信息，未满18岁人员需填上监护人信息<img src="https://xlingde.github.io//post-images/1626881271745.png" alt="" loading="lazy"><br>
+<img src="https://xlingde.github.io//post-images/1626881276565.png" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+选择个人预约，选择对应的疫苗（本人选择Vero）<img src="https://xlingde.github.io//post-images/1626881391394.jpg" alt="" loading="lazy"><br>
+<img src="https://xlingde.github.io//post-images/1626881397037.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+选择地点<img src="https://xlingde.github.io//post-images/1626881412920.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+选择对应的时间<img src="https://xlingde.github.io//post-images/1626881431932.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////<br>
+完成并仔细检查对应信息<img src="https://xlingde.github.io//post-images/1626881474351.jpg" alt="" loading="lazy"><br>
+////////////////////////////////////////////////////////////////</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xlingde.github.io/post/hello-gridea/</id>
